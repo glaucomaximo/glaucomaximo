@@ -1,6 +1,5 @@
 # About me
   <a href="linkedin.com/glaucomaximo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
--->
 
 ### Development Environment
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
