@@ -6,7 +6,7 @@ Fullstack Developer
 *   🌍  I'm based in Brasília, Brazil
 *   🖥️  See my portfolio at [Macaco Ecotech](http://macaco.eco.br)
 *   ✉️  You can contact me at [glaucomaximo@gmail.com](mailto:glaucomaximo@gmail.com)
-*   🚀  I'm currently working on [Macaco Ecotech](http://macaco.eco.br)
+*   🚀  I'm currently working on [Obrazap](http://obrazap.com)
 *   🧠  I'm learning web3
 
 <a href="https://www.twitch.tv/simiomajstro" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/simiomajstro?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=0f172a&label=TWITCH+STATUS" /></a>
