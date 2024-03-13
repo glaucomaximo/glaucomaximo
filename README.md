@@ -14,7 +14,7 @@ Fullstack Developer
 
 # 📱My Contacts 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaucomaximo/)
-[![Gmail](https://img.shields.io/badge/gsbadbr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glaucomaximo@gmail.com)
+[![Gmail](https://img.shields.io/badge/glaucomaximo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glaucomaximo@gmail.com)
 [![Twitter](https://img.shields.io/badge/1sefir0t1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/simiomajstro)
 
 # :white_check_mark: Profile Stats
