@@ -4,7 +4,6 @@ Fullstack Developer
 -------------------
 
 *   🌍  I'm based in Brasília, Brazil
-*   🖥️  See my portfolio at [Macaco Ecotech](http://macaco.eco.br)
 *   ✉️  You can contact me at [glaucomaximo@gmail.com](mailto:glaucomaximo@gmail.com)
 *   🚀  I'm currently working on [Obrazap](http://obrazap.com)
 *   🧠  I'm learning web3
